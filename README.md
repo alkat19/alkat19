@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Alex (he/him), a PhD student at the University of Copenhagen, Section of Epidemiology. I like working with prognostic and diagnostic models of adverse outcomes in vulnerable individuals. I am getting excited with using data from various modalities and very keen to use their signal in prediction. 
+I am Alex (he/him), a Postdoctoral researcher at the University of Copenhagen, Section of Health Data Science & AI. I like working with prognostic and diagnostic models of adverse outcomes in vulnerable individuals. I am getting excited with using data from various modalities and very keen to use their signal in prediction. 
 
 Here are some stuff about me:
 
