@@ -2,8 +2,8 @@
 
 # Alexandros Katsiferis
 
-**Postdoctoral Researcher at**
-Section for Health Data Science & AI · University of Copenhagen
+**Postdoctoral Researcher**
+at Section for Health Data Science & AI · University of Copenhagen
 
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square)](https://alkat19.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-000000?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=II1XJoUAAAAJ&hl=en)
