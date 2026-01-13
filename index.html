@@ -53,19 +53,6 @@
             pointer-events: none;
         }
 
-        .vertical-text {
-            position: fixed;
-            right: 40px;
-            top: 50%;
-            transform: translateY(-50%);
-            writing-mode: vertical-rl;
-            font-family: 'Noto Serif JP', serif;
-            font-size: 12px;
-            letter-spacing: 8px;
-            color: var(--text-muted);
-            opacity: 0.5;
-        }
-
         /* Main container */
         .container {
             max-width: 800px;
@@ -331,7 +318,6 @@
                 font-size: 2.2rem;
             }
 
-            .vertical-text,
             .enso {
                 display: none;
             }
@@ -346,11 +332,10 @@
 <body>
     <!-- Decorative elements -->
     <div class="enso"></div>
-    <div class="vertical-text">研究者 • 健康データサイエンス</div>
 
     <div class="container">
         <header>
-            <p class="greeting">ようこそ — Welcome</p>
+            <p class="greeting">Welcome</p>
             <h1>Alex</h1>
             <p class="subtitle">Postdoctoral Researcher</p>
             <p class="affiliation">University of Copenhagen · Health Data Science & AI</p>
