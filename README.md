@@ -26,7 +26,7 @@ Currently exploring how far I can push agentic AI in my research workflows.
 
 ---
 
-**Featured** · [Interdisciplinary Index Analyzer](https://github.com/alkat19/interdisciplinary-index-analyzer) — measures cross-domain impact of academic research through citation patterns and semantic similarity.
+**Featured** · [Fieldtrip Index](https://github.com/alkat19/fieldtrip-index) — measures cross-domain impact of academic research through citation patterns and semantic similarity.
 
 ---
 
